@@ -76,6 +76,7 @@ include("mel.jl")
 include("plotting.jl")
 include("lsfft.jl")
 include("autocov.jl")
+include("lasso.jl")
 
 
 # Functions
